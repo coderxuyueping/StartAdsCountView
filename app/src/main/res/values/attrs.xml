@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StartAdsCountView">
+        <attr name="circleRadius" format="integer"/>
+        <attr name="fontSize" format="dimension"/>
+        <attr name="circleProgressColor" format="color"/>
+        <attr name="circleColor" format="color"/>
+        <attr name="fontColor" format="color"/>
+        <attr name="aniDuration" format="integer"/>
+        <attr name="text" format="string"/>
+    </declare-styleable>
+</resources>
